@@ -3,5 +3,3 @@
 function test(){
 	echo "hello";
 }
-
-die();
